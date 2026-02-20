@@ -1,0 +1,23 @@
+{
+  "typography": [
+    {
+      "category": "Title",
+      "name": "22_Semibold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 22,
+      "lineHeight": 130,
+      "letterSpacing": 0,
+      "description": "페이지 단위 타이틀에 사용."
+    },
+    {
+      "category": "Subtitle",
+      "name": "17_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 17,
+      "lineHeight": 140,
+      "letterSpacing": 0
+    }
+  ]
+}
