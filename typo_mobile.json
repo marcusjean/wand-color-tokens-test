@@ -7,7 +7,7 @@
       "style": "Bold",
       "size": 22,
       "lineHeight": 130,
-      "description": "대제목 등에 사용"
+      "description": "최상위 헤드라인 및 주요 섹션 타이틀"
     },
     {
       "category": "Title",
@@ -15,7 +15,8 @@
       "family": "Pretendard",
       "style": "SemiBold",
       "size": 22,
-      "lineHeight": 130
+      "lineHeight": 130,
+      "description": "페이지 단위 타이틀 및 정보 요약 헤드"
     },
     {
       "category": "Title",
@@ -23,7 +24,8 @@
       "family": "Pretendard",
       "style": "Bold",
       "size": 18,
-      "lineHeight": 130
+      "lineHeight": 130,
+      "description": "중간 규모의 그룹 타이틀"
     },
     {
       "category": "Title",
@@ -31,7 +33,8 @@
       "family": "Pretendard",
       "style": "SemiBold",
       "size": 18,
-      "lineHeight": 130
+      "lineHeight": 130,
+      "description": "리스트 제목 또는 카드 내 타이틀"
     },
     {
       "category": "Body",
@@ -40,7 +43,7 @@
       "style": "SemiBold",
       "size": 16,
       "lineHeight": 140,
-      "description": "강조형 본문에 사용"
+      "description": "강조형 본문 및 버튼 내부 레이블"
     },
     {
       "category": "Body",
@@ -48,7 +51,8 @@
       "family": "Pretendard",
       "style": "Regular",
       "size": 16,
-      "lineHeight": 140
+      "lineHeight": 140,
+      "description": "가장 일반적인 읽기용 본문 텍스트"
     },
     {
       "category": "Body",
@@ -56,7 +60,8 @@
       "family": "Pretendard",
       "style": "SemiBold",
       "size": 14,
-      "lineHeight": 140
+      "lineHeight": 140,
+      "description": "정보 리스트의 항목 명칭 및 캡션 강조"
     },
     {
       "category": "Body",
@@ -64,7 +69,8 @@
       "family": "Pretendard",
       "style": "Regular",
       "size": 14,
-      "lineHeight": 140
+      "lineHeight": 140,
+      "description": "부연 설명 및 폼 필드 안내 문구"
     }
   ]
 }
