@@ -1,0 +1,121 @@
+{
+  "typography": [
+    {
+      "category": "Title",
+      "name": "40_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 40,
+      "lineHeight": 130,
+      "description": "PC 메인 히어로 타이틀 및 최상위 강조 헤드라인"
+    },
+    {
+      "category": "Title",
+      "name": "32_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 32,
+      "lineHeight": 130,
+      "description": "PC 서브 메인 타이틀 및 대메뉴 헤드라인"
+    },
+    {
+      "category": "Title",
+      "name": "28_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 28,
+      "lineHeight": 130,
+      "description": "PC 페이지 단위 타이틀 및 주요 섹션 헤드"
+    },
+    {
+      "category": "Title",
+      "name": "24_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 24,
+      "lineHeight": 130,
+      "description": "PC 일반 섹션 타이틀 및 대형 모달/팝업 헤드라인"
+    },
+    {
+      "category": "Title",
+      "name": "24_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 24,
+      "lineHeight": 130,
+      "description": "PC 일반 섹션 서브 타이틀 (강조가 덜 필요한 경우)"
+    },
+    {
+      "category": "Title",
+      "name": "20_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 20,
+      "lineHeight": 130,
+      "description": "PC 카드, 컴포넌트 단위의 주요 타이틀"
+    },
+    {
+      "category": "Title",
+      "name": "20_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 20,
+      "lineHeight": 130,
+      "description": "PC 카드 내부의 서브 타이틀 및 주요 탭 메뉴"
+    },
+    {
+      "category": "Body",
+      "name": "18_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 18,
+      "lineHeight": 150,
+      "description": "PC 본문 내 강조 텍스트 및 대형 버튼 레이블"
+    },
+    {
+      "category": "Body",
+      "name": "18_Regular(400)",
+      "family": "Pretendard",
+      "style": "Regular",
+      "size": 18,
+      "lineHeight": 150,
+      "description": "PC 텍스트 위주의 넉넉한 본문 읽기 영역"
+    },
+    {
+      "category": "Body",
+      "name": "16_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 16,
+      "lineHeight": 150,
+      "description": "PC 기본 본문 강조 및 일반 버튼, 데이터 표(Table) 헤더"
+    },
+    {
+      "category": "Body",
+      "name": "16_Regular(400)",
+      "family": "Pretendard",
+      "style": "Regular",
+      "size": 16,
+      "lineHeight": 150,
+      "description": "PC 환경에서 가장 일반적인 읽기용 본문 및 리스트 텍스트"
+    },
+    {
+      "category": "Body",
+      "name": "14_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 14,
+      "lineHeight": 150,
+      "description": "PC 부가 정보 강조 및 작은 버튼, 뱃지 레이블"
+    },
+    {
+      "category": "Body",
+      "name": "14_Regular(400)",
+      "family": "Pretendard",
+      "style": "Regular",
+      "size": 14,
+      "lineHeight": 150,
+      "description": "PC 캡션, 툴팁, 폼 필드 하단 안내 문구 등 부가 설명"
+    }
+  ]
+}
