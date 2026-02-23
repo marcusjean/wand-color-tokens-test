@@ -1,0 +1,39 @@
+{
+  "palettes": [
+    { "name": "Green/50", "hex": "#f0fdf4", "description": "가장 밝은 배경색 및 강조 영역 배경" },
+    { "name": "Green/100", "hex": "#dcfce7", "description": "서브 브랜드 배경 및 활성화 태그 배경" },
+    { "name": "Green/200", "hex": "#bbf7d0", "description": "비활성 버튼 또는 약한 강조 라인" },
+    { "name": "Green/300", "hex": "#86efac", "description": "밝은 테두리 및 비활성 아이콘" },
+    { "name": "Green/400", "hex": "#4ade80", "description": "강조 테두리 및 활성 아이콘(Light)" },
+    { "name": "Green/500", "hex": "#22c55e", "description": "PC 메인 브랜드 컬러 (Primary)" },
+    { "name": "Green/600", "hex": "#16a34a", "description": "아이콘 및 텍스트 강조용 브랜드 컬러" },
+    { "name": "Green/700", "hex": "#15803d", "description": "주요 버튼(CTA) 및 활성 상태 배경" },
+    { "name": "Green/800", "hex": "#166534", "description": "어두운 텍스트 및 깊이감 있는 배경" },
+    { "name": "Green/900", "hex": "#14532d", "description": "가장 어두운 텍스트 및 대비 배경" },
+    { "name": "Green/950", "hex": "#052e16", "description": "가장 어두운 그린 배경 영역" },
+
+    { "name": "Gray/50", "hex": "#f9fafb", "description": "PC 앱 기본 배경색" },
+    { "name": "Gray/100", "hex": "#f3f4f6", "description": "PC 컨테이너 및 표면(Surface) 배경색" },
+    { "name": "Gray/200", "hex": "#e5e7eb", "description": "디바이더(구분선) 및 기본 테두리" },
+    { "name": "Gray/300", "hex": "#d1d5db", "description": "비활성 요소 및 입력창 폼 테두리" },
+    { "name": "Gray/400", "hex": "#9ca3af", "description": "비활성 텍스트 및 플레이스홀더" },
+    { "name": "Gray/500", "hex": "#6b7280", "description": "부가 설명 및 보조 텍스트 (Secondary)" },
+    { "name": "Gray/600", "hex": "#4b5563", "description": "본문 텍스트 (대비 낮음)" },
+    { "name": "Gray/700", "hex": "#374151", "description": "기본 본문 텍스트 (Body)" },
+    { "name": "Gray/800", "hex": "#1f2937", "description": "강조 텍스트 및 소제목" },
+    { "name": "Gray/900", "hex": "#111827", "description": "가장 어두운 텍스트 (대타이틀)" },
+    { "name": "Gray/950", "hex": "#030712", "description": "가장 어두운 무채색 배경" }
+  ],
+  "semantics": [
+    { "name": "Brand/Primary", "light": "Green/500", "description": "브랜드 핵심 컬러 (포인트, CTA 버튼 등)" },
+    { "name": "Brand/Hover", "light": "Green/600", "description": "브랜드 버튼 마우스 오버(Hover) 상태" },
+    { "name": "Brand/Active", "light": "Green/700", "description": "브랜드 버튼 클릭(Active) 상태" },
+    { "name": "Brand/Subtle", "light": "Green/50", "description": "브랜드 연관 연한 배경 (알림, 뱃지 등)" },
+    { "name": "Text/Primary", "light": "Gray/900", "description": "메인 텍스트 및 주요 타이틀" },
+    { "name": "Text/Secondary", "light": "Gray/500", "description": "보조 텍스트 및 설명글" },
+    { "name": "Text/Disabled", "light": "Gray/400", "description": "비활성화된 텍스트" },
+    { "name": "Bg/Base", "light": "Gray/50", "description": "PC 화면 최하단 기본 배경 (앱 백그라운드)" },
+    { "name": "Bg/Surface", "light": "Gray/100", "description": "카드, 모달, 팝업 등 표면 요소의 배경" },
+    { "name": "Border/Default", "light": "Gray/200", "description": "기본 테두리 및 섹션 구분선" }
+  ]
+}
