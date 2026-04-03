@@ -28,7 +28,7 @@
   "semantics": [
     { "name": "Button/Primary/Fill", "light": "Blue/700", "dark": "Blue/300", "description": "가장 높은 위계의 버튼 채우기 색상" },
     { "name": "Background/Brand/Sub", "light": "Blue/100", "dark": "Blue/900", "description": "브랜드 성격이 드러나는 보조 배경 영역" },
-    { "name": "Text/Inverse", "light": "Blue/50", "dark": "Blue/950", "description": "유색 배경 위에서 사용되는 반전 텍스트" },
+    { "name": "Text/Inverse", "light": "Gray/800", "dark": "Blue/200", "description": "유색 배경 위에서 사용되는 반전 텍스트" },
     { "name": "Icon/Brand", "light": "Blue/600", "dark": "Blue/400", "description": "브랜드 아이덴티티를 나타내는 주요 아이콘" }
   ]
 }
