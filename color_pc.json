@@ -29,7 +29,7 @@
     { "name": "Brand/Hover", "light": "Green/600", "description": "브랜드 버튼 마우스 오버(Hover) 상태" },
     { "name": "Brand/Active", "light": "Green/700", "description": "브랜드 버튼 클릭(Active) 상태" },
     { "name": "Brand/Subtle", "light": "Green/50", "description": "브랜드 연관 연한 배경 (알림, 뱃지 등)" },
-    { "name": "Text/Primary", "light": "Gray/900", "description": "메인 텍스트 및 주요 타이틀" },
+    { "name": "Text/Primary", "light": "Gray/900", "dark": "Gray/200", "description": "메인 텍스트 및 주요 타이틀" },
     { "name": "Text/Secondary", "light": "Gray/500", "description": "보조 텍스트 및 설명글" },
     { "name": "Text/Disabled", "light": "Gray/400", "description": "비활성화된 텍스트" },
     { "name": "Bg/Base", "light": "Gray/50", "description": "PC 화면 최하단 기본 배경 (앱 백그라운드)" },
