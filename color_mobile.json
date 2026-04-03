@@ -10,7 +10,20 @@
     { "name": "Blue/700", "hex": "#1563C1", "description": "주요 버튼(CTA) 및 활성 상태 배경" },
     { "name": "Blue/800", "hex": "#1855AA", "description": "강한 대비가 필요한 다크 테마 포인트" },
     { "name": "Blue/900", "hex": "#174A92", "description": "다크 모드 메인 텍스트 또는 배경" },
-    { "name": "Blue/950", "hex": "#162D50", "description": "가장 어두운 배경 영역" }
+    { "name": "Blue/950", "hex": "#162D50", "description": "가장 어두운 배경 영역" },
+
+    
+    { "name": "Gray/50", "hex": "#f9fafb", "description": "PC 앱 기본 배경색" },
+    { "name": "Gray/100", "hex": "#f3f4f6", "description": "PC 컨테이너 및 표면(Surface) 배경색" },
+    { "name": "Gray/200", "hex": "#e5e7eb", "description": "디바이더(구분선) 및 기본 테두리" },
+    { "name": "Gray/300", "hex": "#d1d5db", "description": "비활성 요소 및 입력창 폼 테두리" },
+    { "name": "Gray/400", "hex": "#9ca3af", "description": "비활성 텍스트 및 플레이스홀더" },
+    { "name": "Gray/500", "hex": "#6b7280", "description": "부가 설명 및 보조 텍스트 (Secondary)" },
+    { "name": "Gray/600", "hex": "#4b5563", "description": "본문 텍스트 (대비 낮음)" },
+    { "name": "Gray/700", "hex": "#374151", "description": "기본 본문 텍스트 (Body)" },
+    { "name": "Gray/800", "hex": "#1f2937", "description": "강조 텍스트 및 소제목" },
+    { "name": "Gray/900", "hex": "#111827", "description": "가장 어두운 텍스트 (대타이틀)" },
+    { "name": "Gray/950", "hex": "#030712", "description": "가장 어두운 무채색 배경" }
   ],
   "semantics": [
     { "name": "Button/Primary/Fill", "light": "Blue/700", "dark": "Blue/300", "description": "가장 높은 위계의 버튼 채우기 색상" },
